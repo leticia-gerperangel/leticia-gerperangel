@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Leticia!
 
-<!--
-**leticia-gerperangel/leticia-gerperangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineer** | 🚀 Aspiring Data Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Leticia, a computer engineering graduate with a passion for turning data into impactful solutions. I’m on a journey to become a professional Data Engineer, constantly learning and growing my skills in the world of data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- **Programming:** Java, R
+- **Databases:** SQL
+- **Business Intelligence:** Tableau
+- **Model Design:** Data modeling & architecture
+
+---
+
+## 🌱 What I'm Focusing On
+
+Currently, I’m sharpening my skills in data engineering, exploring new tools, and working on personal projects (coming soon!).
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-gerpe-rangel-820950245)](https://www.linkedin.com/in/leticia-gerpe-rangel-820950245)
+
+---
+
+## ⚡ Fun Facts
+
+- 🌍 I love to travel and discover new places.
+- 📚 I love reading books of all kinds.
+- 🏃‍♀️ Sports keep me energized and motivated!
+
+---
+
+Thanks for visiting my profile! Feel free to connect or reach out — I’m always open to collaborating or sharing ideas.
