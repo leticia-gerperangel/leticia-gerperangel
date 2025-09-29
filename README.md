@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm Leticia, a computer engineering graduate with 
 
 ## 🛠️ Skills
 
-- **Programming:** Java, R
-- **Databases:** SQL
+- **Programming:** Java, R, SQL
+- **Databases:** PostgreSQL, DBeaver
 - **Business Intelligence:** Tableau
 - **Model Design:** Data modeling & architecture
 
